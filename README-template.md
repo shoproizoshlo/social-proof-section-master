@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/shoproizoshlo/social-proof-section-master
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://sue-social-proof-section-master.netlify.app/ 
 
 ## My process
 
